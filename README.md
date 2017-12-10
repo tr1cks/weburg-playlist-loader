@@ -1,2 +1,3 @@
-# weburg-playlist-loader
-Tool for loading Weburg.tv playlist in different formats.
+# Weburg playlist loader
+
+Simple tool for download Weburg.tv playlist and convert it to different formats.
